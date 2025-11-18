@@ -1,0 +1,5 @@
+org\example\model\RickAndMortyResponse$Info.class
+org\example\service\RickAndMortyApiService.class
+org\example\ApiAttackRickAndMorty.class
+org\example\model\RickAndMortyCharacter.class
+org\example\model\RickAndMortyResponse.class
