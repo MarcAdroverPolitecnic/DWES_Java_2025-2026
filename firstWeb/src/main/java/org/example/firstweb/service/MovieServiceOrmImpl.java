@@ -31,8 +31,8 @@ public class MovieServiceOrmImpl implements MovieService {
     }
 
     @Override
-    public boolean addMovie(Movie movie) {
-        return dao.addMovie(movie);
+    public boolean addMovie(MovieDto moviedto) {
+        return dao.addMovie(Mapper.toEntity(moviedto));
     }
 
 
@@ -45,8 +45,10 @@ public class MovieServiceOrmImpl implements MovieService {
 
 
     @Override
-    public MovieDto updateMovie(Movie movie) {
-        Movie updatedMovie = dao.updateMovie(movie);
+    public MovieDto updateMovie(MovieDto moviedto) {
+        Movie movieToUpdate = Mapper.toEntity(moviedto);
+        Movie updatedMovie = dao.updateMovie(movieToUpdate);
+
         return Mapper.toDto(updatedMovie);
     }
 }

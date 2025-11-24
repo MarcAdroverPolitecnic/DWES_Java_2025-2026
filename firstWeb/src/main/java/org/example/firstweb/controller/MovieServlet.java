@@ -10,6 +10,7 @@ import jakarta.servlet.http.HttpSession;
 import org.example.firstweb.model.Movie;
 import org.example.firstweb.service.MovieService;
 import org.example.firstweb.service.MovieServiceJDBCImpl;
+import org.example.firstweb.util.Mapper;
 //import org.example.firstweb.service.MovieServiceStaticImpl;
 
 import java.io.IOException;
@@ -83,7 +84,7 @@ public class MovieServlet extends HttpServlet {
 
             Movie movie = new Movie(title, description, Long.valueOf(year));
 
-            movieService.addMovie(movie);
+            movieService.addMovie(Mapper.toDto(movie));
 
             req.setAttribute("movies", movieService.findAll());
             req.getRequestDispatcher("movies.jsp").forward(req,resp);
@@ -129,7 +130,7 @@ public class MovieServlet extends HttpServlet {
             String year = req.getParameter("year");
 
             Movie movie = new Movie(id, title, description, Long.valueOf(year));
-            movieService.updateMovie(movie);
+            movieService.updateMovie(Mapper.toDto(movie));
 
             req.setAttribute("movies", movieService.findAll());
             req.getRequestDispatcher("movies.jsp").forward(req, resp);

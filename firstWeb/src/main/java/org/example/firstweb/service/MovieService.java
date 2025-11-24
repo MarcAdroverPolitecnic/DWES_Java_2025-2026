@@ -9,7 +9,7 @@ public interface MovieService {
 
     List<MovieDto> findAll();
     MovieDto findById(Long id);
-    boolean addMovie(Movie movie);
-    MovieDto updateMovie(Movie movie);
+    boolean addMovie(MovieDto movie);
+    MovieDto updateMovie(MovieDto movie);
     MovieDto deleteMovie(Long id);
 }
