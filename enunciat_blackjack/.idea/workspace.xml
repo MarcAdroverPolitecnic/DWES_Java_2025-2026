@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e49ba662-eeba-49e5-b83a-f57aa52f885e" name="Changes" comment="AUTHFILTER">
+      <change afterPath="$PROJECT_DIR$/../CorreccioProfeQuiz/src/main/java/cat/politecnicllevant/firstweb/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CorreccioProfeQuiz/trivial-main.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/controller/helloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/controller/servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/dao/DaoOrmImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/dto/GameDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/interceptor/AuthInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/service/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/util/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/java/org/example/examen/util/JdbcConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen/src/main/webapp/hello-servlet.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/springMVC/prova/src/main/java/org/example/prova/controllers/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/springMVC/prova/src/main/resources/templates/movie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring/springMVC/prova/src/main/resources/templates/moviesList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RickyMortyApi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RickyMortyApi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/springMVC/prova/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/springMVC/prova/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pprohenspolitecnicllevant&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarcAdroverPolitecnic/DEWS_Java_2025-2026.git",
+    "accountId": "3ba73646-48c0-4958-8184-e66f9f6ba1b4"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36eQfNTG6UWXtiIvWJ76MoEqoAr" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.SoluBlackJack.executor": "Run",
+    "Maven.blackjack [clean:clean,package].executor": "Run",
+    "Maven.blackjack [clean].executor": "Run",
+    "Maven.blackjack [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/marca/OneDrive/Escritorio/2n DAW/DWES/Pere (JAVA)/enunciat_blackjack",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MarcAdrover" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MarcAdrover" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SoluBlackJack" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+          <option name="upForceRecreate" value="true" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean package" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e49ba662-eeba-49e5-b83a-f57aa52f885e" name="Changes" comment="" />
+      <created>1765364659859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765364659859</updated>
+      <workItem from="1765364661954" duration="15398000" />
+      <workItem from="1765414215982" duration="976000" />
+      <workItem from="1765415271367" duration="2126000" />
+      <workItem from="1765448301443" duration="9194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AUTHFILTER" />
+    <option name="LAST_COMMIT_MESSAGE" value="AUTHFILTER" />
+  </component>
+</project>
