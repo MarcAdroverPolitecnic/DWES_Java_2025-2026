@@ -1,0 +1,22 @@
+services:
+  api:
+    build: ./api-exam-enunciat
+    container_name: api-server
+    ports:
+      - "8081:8081"
+    networks:
+      - cantina-network
+
+  client:
+    build: ./client-api-springboot
+    container_name: vite-client
+    ports:
+      - "5173:5173"
+    depends_on:
+      - api
+    networks:
+      - cantina-network
+
+networks:
+  cantina-network:
+    driver: bridge
